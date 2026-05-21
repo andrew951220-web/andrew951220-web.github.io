@@ -5,14 +5,14 @@ profile_img: "/assets/img/profile.webp"
 
 # Social Links
 email: example@gmail.com
-github_username: github
+github_username: andrew951220-web
 twitter_username: twitter
 instagram_username: instagram
 linkedin_username: linkedin
 facebook_username: facebook
 
 # External API
-giscus_repo: "byanko55/jekyll-theme-satellite"
+giscus_repo: "andrew951220-web/andrew951220-web.github.io"
 giscus_repoId: "R_kgDOJ6fqWg"
 giscus_category: "Q&A"
 giscus_categoryId: "DIC_kwDOJ6fqWs4Cc7p7"
